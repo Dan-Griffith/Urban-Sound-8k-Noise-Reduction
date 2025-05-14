@@ -7,5 +7,5 @@ https://urbansounddataset.weebly.com/urbansound8k.html
 Paper pending
 
 Final Results 
-![alt text](SNR_Relation.png)
+![alt text](SNR_relation.png)
 ![alt text](F1_Scores.png)
