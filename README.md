@@ -1,1 +1,10 @@
-This project tests different types of de-noising to improve classification of low SNR classses in the UrbanSound8K dataset. 
+This project tests different types of denoising to improve the classification of low SNR classes in the UrbanSound8K dataset. 
+
+Dataset Link: 
+https://urbansounddataset.weebly.com/urbansound8k.html 
+
+
+Paper pending
+
+Final Results 
+![alt text](image-url)
